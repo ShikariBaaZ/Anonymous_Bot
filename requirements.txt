@@ -1,0 +1,5 @@
+# https://github.com/ShikariBaaZ/Anonymous_Bot.git
+
+pyrogram
+TgCrypto
+python-dotenv
